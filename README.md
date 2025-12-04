@@ -2,7 +2,7 @@
 {
   "id": "8d3e51c2-4811-4275-976c-04e3b3215998",
   "teaches": "Using the Linux Terminal",
-  "depends_on": [],
+  "depends_on": ["c25a4d2d-dd76-4b3c-868f-aaef175c0f89"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-03-30",
   "keywords": ["bash", "Linux", "basics"]
